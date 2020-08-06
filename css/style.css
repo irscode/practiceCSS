@@ -1,0 +1,28 @@
+.black {width:100px; 
+    height: 100px; 
+    background-color: black;
+}
+
+.MEDIUMSEAGREEN {width:100px; 
+    height: 100px; 
+    background-color: #3CB371;
+
+}
+
+.OLIVE {width:100px; 
+    height: 100px; 
+    background-color: #808000;
+}
+
+#window
+{
+    width: 100px
+}
+
+#slider{
+    transform: translate();
+    animation: move 3s infinite;
+}
+
+@keyframes
+
